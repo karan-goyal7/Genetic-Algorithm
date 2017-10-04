@@ -1,0 +1,1 @@
+This Folder consists of all the codes of genetic algo
